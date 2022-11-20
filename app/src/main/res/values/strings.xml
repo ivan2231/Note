@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Записки гейм мастера</string>
+    <string name="tab_text_1">Активные</string>
+    <string name="tab_text_2">Архив</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Edit_text_body">Текст Заметки</string>
+    <string name="title">Заголовок</string>
+    <string name="Save">Сохранить</string>
+</resources>
